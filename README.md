@@ -68,18 +68,18 @@ An A/B test was conducted to evaluate a redesigned booking system.
 ## 📁 Repository Structure
 
 - ├── dataset/
-│   ├── backup/
-│   ├── cleaned/
-│   └── hospital_dataset_raw.csv
+- │   ├── backup/
+- │   ├── cleaned/
+- │   └── hospital_dataset_raw.csv
 - ├── notebook/
-│   ├── AB Testing Report.ipynb
-│   └── hospital_booking_ab_test_cleaned.pkl
+- │   ├── AB Testing Report.ipynb
+- │   └── hospital_booking_ab_test_cleaned.pkl
 - ├── outputs/
-│   ├── charts/
-│   ├── power bi dashboard/
-│   └── report/
-│       └── Hospital Booking system UI A-B Testing Report.pdf
-└── README.md
+- │   ├── charts/
+- │   ├── power bi dashboard/
+- │   └── report/
+- │       └── Hospital Booking system UI A-B Testing Report.pdf
+- └── README.md
 
 ## 🛠️ Tools Used
 - **Python** - Full analysis using libraries (pandas, numpy, z-test, matplotlib)
@@ -98,6 +98,7 @@ An A/B test was conducted to evaluate a redesigned booking system.
 
 
 *This project demonstrates A/B testing analysis, statistical validation, and executive-level business intelligence reporting in a healthcare technology context.*
+
 
 
 
