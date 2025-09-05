@@ -7,7 +7,7 @@ An A/B test was conducted to evaluate a redesigned booking system.
 
 - **Challenge**: Booking conversion rates declined 8% year-over-year
 - **Impact**: $2.3M annual loss from missed appointments
-- **Solution**: Test new UI with simplified forms, progress indicators, and mobile-first design
+- **Solution**: Test new UI with simplified forms, progress indicators.
 - **Decision**: Rollout ($200K investment) vs. explore alternatives
 
 ## 📊 Dataset
@@ -43,7 +43,7 @@ An A/B test was conducted to evaluate a redesigned booking system.
 
 ### Key Insights
 - ✅ **Treatment performs better across ALL user segments**
-- 💰 **Strong ROI with 1.9-month payback period**
+- 💰 **Strong ROI with 2.9-month payback period**
 - 📊 **Statistically significant with high confidence**
 
 
@@ -92,9 +92,10 @@ An A/B test was conducted to evaluate a redesigned booking system.
 
 Zahoor Ishfaq
 zahoor.ishfaaq@gmail.com
-[www.linkedin.com/in/zahoor-ishfaq](https://www.linkedin.com/in/zahoor-ishfaq/)
+www.linkedin.com/in/zahoor-ishfaq
 
 ---
 
 
 *This project demonstrates A/B testing analysis, statistical validation, and executive-level business intelligence reporting in a healthcare technology context.*
+
