@@ -67,14 +67,14 @@ An A/B test was conducted to evaluate a redesigned booking system.
 
 ## 📁 Repository Structure
 
-├── dataset/
+- ├── dataset/
 │   ├── backup/
 │   ├── cleaned/
 │   └── hospital_dataset_raw.csv
-├── notebook/
+- ├── notebook/
 │   ├── AB Testing Report.ipynb
 │   └── hospital_booking_ab_test_cleaned.pkl
-├── outputs/
+- ├── outputs/
 │   ├── charts/
 │   ├── power bi dashboard/
 │   └── report/
@@ -98,5 +98,6 @@ An A/B test was conducted to evaluate a redesigned booking system.
 
 
 *This project demonstrates A/B testing analysis, statistical validation, and executive-level business intelligence reporting in a healthcare technology context.*
+
 
 
